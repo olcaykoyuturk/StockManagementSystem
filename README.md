@@ -1,4 +1,4 @@
-# SmartStorageSystem
+![image](https://github.com/user-attachments/assets/10bb5579-b4d5-42e4-b018-c0172e7eb785)# SmartStorageSystem
 
 Bu proje, basit bir Stok Yönetim Sistemi uygulaması sunmaktadır. Kullanıcılar, ürünlerin envanterlerini takip edebilir, siparişlerin durumlarını güncelleyebilir ve sistem üzerinden çeşitli raporlar oluşturabilir. Uygulama, **Tkinter** ile geliştirilen bir GUI üzerinden çalışır ve veritabanı işlemleri için **SQLite** kullanır. Ayrıca, veri görselleştirme için **Matplotlib** ve tarih/saat hesaplamaları için **Datetime** kütüphaneleri de kullanılmıştır.
 
@@ -32,7 +32,7 @@ Bu proje, basit bir Stok Yönetim Sistemi uygulaması sunmaktadır. Kullanıcıl
 - ![Resim 1](https://github.com/olcaykoyuturk/SmartStorageSystem/blob/main/image/1.png?raw=true)
 - ![Resim 2](https://github.com/olcaykoyuturk/SmartStorageSystem/blob/main/image/2.png?raw=true)
 - ![Resim 3](https://github.com/olcaykoyuturk/SmartStorageSystem/blob/main/image/3.png?raw=true)
-- ![Resim 4](https://github.com/olcaykoyuturk/SmartStorageSystem/blob/main/image/4.png?raw=true)
+- ![Resim 4](https://github.com/olcaykoyuturk/StockManagementSystem/blob/main/image/4-1.png?raw=true)
 - ![Resim 5](https://github.com/olcaykoyuturk/SmartStorageSystem/blob/main/image/5.png?raw=true)
 - ![Resim 6](https://github.com/olcaykoyuturk/SmartStorageSystem/blob/main/image/6.png?raw=true)
 - ![Resim 7](https://github.com/olcaykoyuturk/SmartStorageSystem/blob/main/image/7.png?raw=true)
