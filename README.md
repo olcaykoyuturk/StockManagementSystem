@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/10bb5579-b4d5-42e4-b018-c0172e7eb785)# SmartStorageSystem
+# SmartStorageSystem
 
 Bu proje, basit bir Stok Yönetim Sistemi uygulaması sunmaktadır. Kullanıcılar, ürünlerin envanterlerini takip edebilir, siparişlerin durumlarını güncelleyebilir ve sistem üzerinden çeşitli raporlar oluşturabilir. Uygulama, **Tkinter** ile geliştirilen bir GUI üzerinden çalışır ve veritabanı işlemleri için **SQLite** kullanır. Ayrıca, veri görselleştirme için **Matplotlib** ve tarih/saat hesaplamaları için **Datetime** kütüphaneleri de kullanılmıştır.
 
